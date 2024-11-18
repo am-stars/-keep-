@@ -6,19 +6,19 @@
 
 在Releases里有四个包都要下载下来，分别在大6-1，小67，大6-2里有LDPlayer9-d6-1.7z，LDPlayer9-x67.7z，LDPlayer9-d6-2.7z；
 
-在单独于LDPlayer9的一个文件中有，ldmutiplayer.7z和Idefault.Ink；
+在单独于LDPlayer9的一个文件中有，ldmutiplayer.7z；
 
 在桌面重建一个新的文件夹，在文件夹里重建二个新的文件夹，重命名为LDPlayer9和ldmutiplayer，将下载下来的三个LDPlayer9-d6-1.7z，LDPlayer9-x67.7z，LDPlayer9-d6-2.7z包分别解压到LDPlayer9里；
 
 再将ldmutiplayer.7z解压到在ldmutiplayer里；
 
-再将Idefault.Ink放到在ldmutiplayer里；
+
 
 
 
 ## 开始跑
 
-将压缩包解压后，进入，打开“Idefault.Ink”程序即可开启程序
+将压缩包解压后，打开新建好的文件夹 LDPlayer9，在里面找到dnplayer.exe文件双击启动模拟器
 
 先进去keep登录账号
 
